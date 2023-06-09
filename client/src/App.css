@@ -1,0 +1,8 @@
+
+body{
+  background-image: url('../public/images/unsplash.jpg');
+  background-repeat: no-repeat;
+}
+.App-header{
+  background-color:rgb(31, 183, 87);
+}

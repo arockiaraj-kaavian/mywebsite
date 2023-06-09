@@ -1,0 +1,42 @@
+.link1{
+    text-decoration: none;
+    margin-left: 40%;
+    color: #fff;
+}
+.link2{
+    text-decoration: none;
+    color: #fff;
+
+
+}
+.link3{
+    text-decoration: none;
+    color: #fff;
+
+
+}
+.link4{
+    text-decoration: none;
+    color: #fff;
+
+
+}
+.link5{
+    text-decoration: none;
+    color: #fff;
+
+
+}
+.head{
+  background-color: #333;
+  justify-content: right;
+  height: 10%;
+  display: flex;
+  justify-content: space-around;
+  padding: 25px;
+  z-index: 12;
+}
+
+.navbar{
+    justify-content: center;
+}
